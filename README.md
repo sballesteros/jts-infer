@@ -1,6 +1,16 @@
 jts-infer
 =========
 
+
+# Deprecation notice
+
+This is no longer maintained.
+Development has moved to:
+- https://github.com/scienceai/preview-tabular-data which does the same thing but uses the [Metadata Vocabulary for Tabular Data](http://www.w3.org/TR/tabular-metadata/) to describe the metadata
+- https://github.com/scienceai/jsonld-context-infer for the inference part.
+
+---
+
 Infer a
 [JSON Table Schema](http://dataprotocols.org/json-table-schema/) from
 a readable stream of a
